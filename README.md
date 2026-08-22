@@ -136,6 +136,7 @@ AI 教練益力康陳董
 
 - 企業 AI 導入與生成式 AI 教學
 - 大學及產業業界講師
+- 國家級高爾夫球教練
 - CGM Coach 血糖教練
 - GitHub：[@draiagent](https://github.com/draiagent)
 
